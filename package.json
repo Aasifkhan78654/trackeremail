@@ -1,0 +1,22 @@
+{
+  "name": "nodemailertest",
+  "version": "1.0.0",
+  "description": "\"Testing node mailer\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "\"Aman\"",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1022.0",
+    "body-parser": "^1.19.0",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.6",
+    "http": "0.0.1-security",
+    "nodemailer": "^6.3.1",
+    "nodemailer-mail-tracking": "^0.2.1",
+    "path": "^0.12.7"
+  }
+}
